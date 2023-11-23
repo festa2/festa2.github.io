@@ -13,5 +13,5 @@
 - Plan 9 / Acme
 - Playstation (PS1/2/3/Vita)
 
-[guia](./guia.html) | [fotos](./fotos.html) | [blog](./blog.html)
+[guia](./guia.html) | [fotos](./fotos.html) | [blog](./blog.html) | [links](./links.html)
 
