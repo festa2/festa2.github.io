@@ -2,8 +2,8 @@
 
 ### Vita
 
-![p4](./img/p401.png)
-![p4](./img/p402.png)
+![p4](./img/p1.png)
+![p4](./img/p2.png)
 
 ### Persona 5
 
