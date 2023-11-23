@@ -1,29 +1,12 @@
 # Bem vindo ao meu website!
-
 ![eu](./img/eu.png)
-
 ## Sobre:
-Tento me livrar do prejudicial.  
+- Sou chato e anti diversão.
+- Tenho noção que sou insuportável.
+- Quero me livrar de tudo prejudicial.
+### Interesses:
+- Minimalismo de Software
+- Plan 9 / Acme
+- Playstation (PS1/2/3/Vita)
 
-Jogo video games.  
-
-Me arrependo todo dia de ter gastado dinheiro e tempo com jogos e youtube.
-
-Sou chato e insuportável. (Vítima da internet e computador desde cedo)  
-
-## Coisas que não deveria ter interesse:
-
-* Suckless 
-* BSD 
-* Plan 9
-* Vi-like editors
-* Playstation
-
-```
-\ncncnc
- \ncnc
-  \
-   \
-```
-
-
+[guia](./guia.html)
