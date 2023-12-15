@@ -8,7 +8,11 @@
 ### Tecnologia
 - [suckless](https://suckless.org)
 - [cat-v](http://cat-v.org)
+- [Wiki Install Gentoo](https://wiki.installgentoo.com/wiki/Main_Page)
 
 ### Plan 9
 - [XXXIIVV](https://wiki.xxiivv.com/site/plan9.html)
 - [Plan 9 Wiki](https://9p.io/wiki/plan9/)
+
+## Outros
+- [Neocities](https://neocities.org/)
